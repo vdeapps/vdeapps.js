@@ -7,6 +7,9 @@
   "authors": [
     { "name": "vdeApps" }
   ],
+  "dependencies": {
+    "merge.js" : "vdeapps/merge.js"
+  },
   "main": [
     "dist/js/vdeapps.js"
   ],
