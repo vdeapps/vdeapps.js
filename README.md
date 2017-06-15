@@ -1,2 +1,2 @@
 # vdeapps.js
-Parent's object
+JS Object container
